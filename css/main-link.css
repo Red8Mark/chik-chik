@@ -9,6 +9,7 @@
   background-color: #F6F3E3;
   transition: background-color .3s ease-in-out;
   cursor: pointer;
+  border: none;
 }
 
 .main-link:hover:not(:disabled) {
